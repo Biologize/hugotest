@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://biologize.github.io/hugotest/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/categories/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/first/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/posts/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/second/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/test/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/posts/blog1/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/posts/blog2/</loc>
+  </url>
+</urlset>

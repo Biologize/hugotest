@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://biologize.github.io/hugotest/sitemap.xml
