@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://biologize.github.io/hugotest/about/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/about-section/</loc>
+  </url><url>
     <loc>https://biologize.github.io/hugotest/</loc>
   </url><url>
     <loc>https://biologize.github.io/hugotest/categories/</loc>
   </url><url>
     <loc>https://biologize.github.io/hugotest/tags/first/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/goals/</loc>
   </url><url>
     <loc>https://biologize.github.io/hugotest/posts/</loc>
   </url><url>
