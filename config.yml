@@ -109,10 +109,21 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
     - identifier: biologize
       name: biologize.org
       url: https://biologize.github.io
       weight: 40
+
+outputs: 
+    home:
+      - HTML
+      - RSS
+      - JSON
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
