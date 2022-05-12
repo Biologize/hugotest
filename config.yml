@@ -28,7 +28,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -91,7 +91,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/Biologize/hugotest/tree/main/content/"
+    URL: "https://github.com/Biologize/hugotest/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -101,22 +101,30 @@ menu:
       name: About
       url: /about/
       weight: 10
+    - identifier: techniques
+      name: Techniques
+      url: /categories/techniques/
+      weight: 20
+    - identifier: people
+      name: People
+      url: /categories/people/
+      weight: 20
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 30
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: search
       name: Search
       url: /search/
-      weight: 30
+      weight: 40
     - identifier: biologize
       name: biologize.org
       url: https://biologize.github.io
-      weight: 40
+      weight: 50
 
 outputs: 
     home:
