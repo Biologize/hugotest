@@ -14,6 +14,10 @@
   </url><url>
     <loc>https://biologize.github.io/hugotest/tags/goals/</loc>
   </url><url>
+    <loc>https://biologize.github.io/hugotest/categories/people/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/posts/people/person1/</loc>
+  </url><url>
     <loc>https://biologize.github.io/hugotest/posts/</loc>
   </url><url>
     <loc>https://biologize.github.io/hugotest/search/</loc>
@@ -22,7 +26,15 @@
   </url><url>
     <loc>https://biologize.github.io/hugotest/tags/</loc>
   </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/tech/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/posts/techniques/tech1/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/categories/techniques/</loc>
+  </url><url>
     <loc>https://biologize.github.io/hugotest/tags/test/</loc>
+  </url><url>
+    <loc>https://biologize.github.io/hugotest/tags/topic1/</loc>
   </url><url>
     <loc>https://biologize.github.io/hugotest/posts/blog1/</loc>
   </url><url>

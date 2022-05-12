@@ -46,11 +46,29 @@
     </item>
     
     <item>
+      <title>tech</title>
+      <link>https://biologize.github.io/hugotest/tags/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biologize.github.io/hugotest/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>test</title>
       <link>https://biologize.github.io/hugotest/tags/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biologize.github.io/hugotest/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic1</title>
+      <link>https://biologize.github.io/hugotest/tags/topic1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biologize.github.io/hugotest/tags/topic1/</guid>
       <description></description>
     </item>
     
