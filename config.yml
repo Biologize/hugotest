@@ -95,30 +95,24 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: biologize
       name: biologize.org
-      url: https://biologize.org
-      weight: 30
+      url: https://biologize.github.io
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
